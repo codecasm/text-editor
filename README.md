@@ -1,6 +1,15 @@
 # MDN Rich-text-editor
 MDN Rich Text Editor - practice purpose
 
+<kbd>
+<p align="center"><strong>A Simple WYSIWYG Editor</strong></p>
+<p align="center">
+  <a href="https://github.com/sibiraj-s/ngx-editor">
+   <img src="https://github.com/codecasm/text-editor/blob/master/mdn-rich-text-editor-sample.png" alt="sample of editor">
+  </a>
+</p>
+</kbd>
+
 ***
 
 # Features to be added
